@@ -1,0 +1,54 @@
+C:\Users\Alber\source\repos\Graficacion\Graficacion\bin\Debug\Graficacion.exe.config
+C:\Users\Alber\source\repos\Graficacion\Graficacion\bin\Debug\Graficacion.exe
+C:\Users\Alber\source\repos\Graficacion\Graficacion\bin\Debug\Graficacion.pdb
+C:\Users\Alber\source\repos\Graficacion\Graficacion\obj\Debug\Graficacion.csprojAssemblyReference.cache
+C:\Users\Alber\source\repos\Graficacion\Graficacion\obj\Debug\Graficacion.Form1.resources
+C:\Users\Alber\source\repos\Graficacion\Graficacion\obj\Debug\Graficacion.Properties.Resources.resources
+C:\Users\Alber\source\repos\Graficacion\Graficacion\obj\Debug\Graficacion.csproj.GenerateResource.cache
+C:\Users\Alber\source\repos\Graficacion\Graficacion\obj\Debug\Graficacion.csproj.CoreCompileInputs.cache
+C:\Users\Alber\source\repos\Graficacion\Graficacion\obj\Debug\Graficacion.exe
+C:\Users\Alber\source\repos\Graficacion\Graficacion\obj\Debug\Graficacion.pdb
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\bin\Debug\Graficacion.exe.config
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\bin\Debug\Graficacion.exe
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\bin\Debug\Graficacion.pdb
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\obj\Debug\Graficacion.csprojAssemblyReference.cache
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\obj\Debug\Graficacion.Form1.resources
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\obj\Debug\Graficacion.Properties.Resources.resources
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\obj\Debug\Graficacion.csproj.GenerateResource.cache
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\obj\Debug\Graficacion.csproj.CoreCompileInputs.cache
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\obj\Debug\Graficacion.exe
+C:\Users\Alber\source\repos\Graficación  (Copia)\Graficacion\obj\Debug\Graficacion.pdb
+C:\Users\Alber\source\repos\Graficación\Graficacion\bin\Debug\Graficacion.exe.config
+C:\Users\Alber\source\repos\Graficación\Graficacion\bin\Debug\Graficacion.exe
+C:\Users\Alber\source\repos\Graficación\Graficacion\bin\Debug\Graficacion.pdb
+C:\Users\Alber\source\repos\Graficación\Graficacion\obj\Debug\Graficacion.Form1.resources
+C:\Users\Alber\source\repos\Graficación\Graficacion\obj\Debug\Graficacion.Properties.Resources.resources
+C:\Users\Alber\source\repos\Graficación\Graficacion\obj\Debug\Graficacion.csproj.GenerateResource.cache
+C:\Users\Alber\source\repos\Graficación\Graficacion\obj\Debug\Graficacion.csproj.CoreCompileInputs.cache
+C:\Users\Alber\source\repos\Graficación\Graficacion\obj\Debug\Graficacion.exe
+C:\Users\Alber\source\repos\Graficación\Graficacion\obj\Debug\Graficacion.pdb
+C:\Users\Alber\source\repos\Graficación\Graficacion\obj\Debug\Graficacion.csproj.AssemblyReference.cache
+C:\Users\Alber\source\repos\Graficación\Graficacion\obj\Debug\Graficacion.dlgPaint.resources
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\bin\Debug\Graficacion.exe.config
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\bin\Debug\Graficacion.exe
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\bin\Debug\Graficacion.pdb
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.csproj.AssemblyReference.cache
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.dlgPaint.resources
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.Form1.resources
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.Properties.Resources.resources
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.csproj.GenerateResource.cache
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.csproj.CoreCompileInputs.cache
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.exe
+C:\Users\Alber\OneDrive\Escritorio\ITSG\Proyectos VS\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.pdb
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\bin\Debug\Graficacion.exe.config
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\bin\Debug\Graficacion.exe
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\bin\Debug\Graficacion.pdb
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.csproj.AssemblyReference.cache
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.dlgPaint.resources
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.Form1.resources
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.Properties.Resources.resources
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.csproj.GenerateResource.cache
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.csproj.CoreCompileInputs.cache
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.exe
+C:\Users\Alber\OneDrive\Escritorio\Graficación_AVR_502_ISC\Graficacion\obj\Debug\Graficacion.pdb
