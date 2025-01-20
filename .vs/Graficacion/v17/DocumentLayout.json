@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficaci\u00F3n_AVR_502_ISC\\",
+  "WorkspaceRootPath": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05C9F0AE-B33A-433B-B8F6-03C73096328D}|Graficacion\\Graficacion.csproj|c:\\users\\alber\\onedrive\\escritorio\\graficaci\u00F3n_avr_502_isc\\graficacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05C9F0AE-B33A-433B-B8F6-03C73096328D}|Graficacion\\Graficacion.csproj|c:\\users\\alber\\onedrive\\escritorio\\graficacion\\graficacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05C9F0AE-B33A-433B-B8F6-03C73096328D}|Graficacion\\Graficacion.csproj|solutionrelative:graficacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C9F0AE-B33A-433B-B8F6-03C73096328D}|Graficacion\\Graficacion.csproj|c:\\users\\alber\\onedrive\\escritorio\\graficaci\u00F3n_avr_502_isc\\graficacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{05C9F0AE-B33A-433B-B8F6-03C73096328D}|Graficacion\\Graficacion.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficacion\\graficacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{05C9F0AE-B33A-433B-B8F6-03C73096328D}|Graficacion\\Graficacion.csproj|solutionrelative:graficacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05C9F0AE-B33A-433B-B8F6-03C73096328D}|Graficacion\\Graficacion.csproj|c:\\users\\alber\\onedrive\\escritorio\\graficaci\u00F3n_avr_502_isc\\graficacion\\dlgpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{05C9F0AE-B33A-433B-B8F6-03C73096328D}|Graficacion\\Graficacion.csproj|C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficacion\\graficacion\\dlgpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{05C9F0AE-B33A-433B-B8F6-03C73096328D}|Graficacion\\Graficacion.csproj|solutionrelative:graficacion\\dlgpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficaci\u00F3n_AVR_502_ISC\\Graficacion\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficacion\\Graficacion\\Form1.cs",
               "RelativeDocumentMoniker": "Graficacion\\Form1.cs",
-              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficaci\u00F3n_AVR_502_ISC\\Graficacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficacion\\Graficacion\\Form1.cs",
               "RelativeToolTip": "Graficacion\\Form1.cs",
               "ViewState": "AgIAAGEdAAAAAAAAAAAMwG0dAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,25 +45,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "dlgPaint.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficaci\u00F3n_AVR_502_ISC\\Graficacion\\dlgPaint.cs",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficacion\\Graficacion\\dlgPaint.cs",
               "RelativeDocumentMoniker": "Graficacion\\dlgPaint.cs",
               "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficaci\u00F3n_AVR_502_ISC\\Graficacion\\dlgPaint.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Graficacion\\dlgPaint.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Graficaci\u00F3n_AVR_502_ISC\\Graficacion\\dlgPaint.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T21:18:12.981Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-16T21:18:12.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficaci\u00F3n_AVR_502_ISC\\Graficacion\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficacion\\Graficacion\\Form1.cs",
               "RelativeDocumentMoniker": "Graficacion\\Form1.cs",
               "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Graficaci\u00F3n_AVR_502_ISC\\Graficacion\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Graficacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Graficaci\u00F3n_AVR_502_ISC\\Graficacion\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T21:14:11.939Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-16T21:14:11.939Z"
             }
           ]
         }
